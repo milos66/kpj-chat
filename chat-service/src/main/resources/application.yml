@@ -8,7 +8,7 @@ spring:
   jms:
     servicebus:
       connection-string: # TODO: add connection string
-      topic-client-id: # TODO: add subscription name (subscriberYourName)
+      topic-client-id: subscriberOlejar # TODO: add subscription name (subscriberYourName)
       pricing-tier: standard
 
 logging:
